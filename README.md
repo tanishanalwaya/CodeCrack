@@ -30,3 +30,19 @@ The repository is continuously updated with new solutions.
 ---
 
 > Solutions are provided for educational and reference purposes.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
