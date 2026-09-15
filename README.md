@@ -62,6 +62,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishanalwaya/CodeCrack/tree/master/0004-median-of-two-sorted-arrays) |
+| [1470-shuffle-the-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
