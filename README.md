@@ -50,6 +50,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishanalwaya/CodeCrack/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tanishanalwaya/CodeCrack/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -64,6 +65,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishanalwaya/CodeCrack/tree/master/0004-median-of-two-sorted-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tanishanalwaya/CodeCrack/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/tanishanalwaya/CodeCrack/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
