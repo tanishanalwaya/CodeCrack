@@ -42,6 +42,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanishanalwaya/CodeCrack/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishanalwaya/CodeCrack/tree/master/0004-median-of-two-sorted-arrays) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tanishanalwaya/CodeCrack/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/tanishanalwaya/CodeCrack/tree/master/0645-set-mismatch) |
@@ -102,5 +104,6 @@ The repository is continuously updated with new solutions.
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
