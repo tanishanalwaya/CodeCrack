@@ -44,6 +44,7 @@ The repository is continuously updated with new solutions.
 | [0007-reverse-integer](https://github.com/tanishanalwaya/CodeCrack/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanishanalwaya/CodeCrack/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Recursion
 |  |
 | ------- |
@@ -80,10 +81,12 @@ The repository is continuously updated with new solutions.
 | [1470-shuffle-the-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1929-concatenation-of-array) |
 | [2615-sum-of-distances](https://github.com/tanishanalwaya/CodeCrack/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishanalwaya/CodeCrack/tree/master/0004-median-of-two-sorted-arrays) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +105,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0645-set-mismatch](https://github.com/tanishanalwaya/CodeCrack/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting Sort
 |  |
 | ------- |
@@ -117,6 +121,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanishanalwaya/CodeCrack/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Prefix Sum
 |  |
 | ------- |
