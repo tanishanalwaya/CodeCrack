@@ -61,6 +61,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishanalwaya/CodeCrack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tanishanalwaya/CodeCrack/tree/master/0006-zigzag-conversion) |
+| [2833-furthest-point-from-origin](https://github.com/tanishanalwaya/CodeCrack/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +106,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2833-furthest-point-from-origin](https://github.com/tanishanalwaya/CodeCrack/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
