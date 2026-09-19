@@ -43,6 +43,7 @@ The repository is continuously updated with new solutions.
 | [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanishanalwaya/CodeCrack/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tanishanalwaya/CodeCrack/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +109,8 @@ The repository is continuously updated with new solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/tanishanalwaya/CodeCrack/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tanishanalwaya/CodeCrack/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
