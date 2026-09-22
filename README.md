@@ -80,6 +80,7 @@ The repository is continuously updated with new solutions.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishanalwaya/CodeCrack/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1929-concatenation-of-array) |
 | [2615-sum-of-distances](https://github.com/tanishanalwaya/CodeCrack/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -118,6 +119,7 @@ The repository is continuously updated with new solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/tanishanalwaya/CodeCrack/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishanalwaya/CodeCrack/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
@@ -127,4 +129,8 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/tanishanalwaya/CodeCrack/tree/master/2615-sum-of-distances) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishanalwaya/CodeCrack/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
