@@ -164,4 +164,8 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/tanishanalwaya/CodeCrack/tree/master/1768-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/tanishanalwaya/CodeCrack/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
