@@ -63,6 +63,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishanalwaya/CodeCrack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tanishanalwaya/CodeCrack/tree/master/0006-zigzag-conversion) |
+| [1768-merge-strings-alternately](https://github.com/tanishanalwaya/CodeCrack/tree/master/1768-merge-strings-alternately) |
 | [2833-furthest-point-from-origin](https://github.com/tanishanalwaya/CodeCrack/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
@@ -159,4 +160,8 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanishanalwaya/CodeCrack/tree/master/0100-same-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/tanishanalwaya/CodeCrack/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
