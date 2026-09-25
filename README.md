@@ -38,6 +38,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tanishanalwaya/CodeCrack/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/tanishanalwaya/CodeCrack/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishanalwaya/CodeCrack/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/tanishanalwaya/CodeCrack/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tanishanalwaya/CodeCrack/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
@@ -187,4 +189,12 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishanalwaya/CodeCrack/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanishanalwaya/CodeCrack/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
