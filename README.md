@@ -63,6 +63,7 @@ The repository is continuously updated with new solutions.
 | [0645-set-mismatch](https://github.com/tanishanalwaya/CodeCrack/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishanalwaya/CodeCrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/tanishanalwaya/CodeCrack/tree/master/2615-sum-of-distances) |
 ## String
 |  |
@@ -72,6 +73,7 @@ The repository is continuously updated with new solutions.
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanishanalwaya/CodeCrack/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
 | [1768-merge-strings-alternately](https://github.com/tanishanalwaya/CodeCrack/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishanalwaya/CodeCrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/tanishanalwaya/CodeCrack/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
@@ -92,6 +94,7 @@ The repository is continuously updated with new solutions.
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishanalwaya/CodeCrack/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishanalwaya/CodeCrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1929-concatenation-of-array) |
 | [2615-sum-of-distances](https://github.com/tanishanalwaya/CodeCrack/tree/master/2615-sum-of-distances) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanishanalwaya/CodeCrack/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
