@@ -94,6 +94,7 @@ The repository is continuously updated with new solutions.
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishanalwaya/CodeCrack/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tanishanalwaya/CodeCrack/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishanalwaya/CodeCrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1929-concatenation-of-array) |
 | [2615-sum-of-distances](https://github.com/tanishanalwaya/CodeCrack/tree/master/2615-sum-of-distances) |
@@ -111,6 +112,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tanishanalwaya/CodeCrack/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -138,6 +140,7 @@ The repository is continuously updated with new solutions.
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tanishanalwaya/CodeCrack/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanishanalwaya/CodeCrack/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tanishanalwaya/CodeCrack/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Geometry
 |  |
 | ------- |
@@ -204,4 +207,8 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0146-lru-cache](https://github.com/tanishanalwaya/CodeCrack/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/tanishanalwaya/CodeCrack/tree/master/0460-lfu-cache) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tanishanalwaya/CodeCrack/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
