@@ -83,6 +83,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishanalwaya/CodeCrack/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/tanishanalwaya/CodeCrack/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanishanalwaya/CodeCrack/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishanalwaya/CodeCrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -182,6 +183,7 @@ The repository is continuously updated with new solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/tanishanalwaya/CodeCrack/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/tanishanalwaya/CodeCrack/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
