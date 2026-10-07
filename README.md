@@ -54,6 +54,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/tanishanalwaya/CodeCrack/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishanalwaya/CodeCrack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tanishanalwaya/CodeCrack/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/tanishanalwaya/CodeCrack/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishanalwaya/CodeCrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/tanishanalwaya/CodeCrack/tree/master/0301-remove-invalid-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanishanalwaya/CodeCrack/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -244,4 +246,8 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishanalwaya/CodeCrack/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/tanishanalwaya/CodeCrack/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
