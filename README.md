@@ -45,6 +45,7 @@ The repository is continuously updated with new solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishanalwaya/CodeCrack/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanishanalwaya/CodeCrack/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tanishanalwaya/CodeCrack/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishanalwaya/CodeCrack/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanishanalwaya/CodeCrack/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanishanalwaya/CodeCrack/tree/master/1401-circle-and-rectangle-overlapping) |
