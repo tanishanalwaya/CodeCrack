@@ -71,6 +71,7 @@ The repository is continuously updated with new solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishanalwaya/CodeCrack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tanishanalwaya/CodeCrack/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishanalwaya/CodeCrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/tanishanalwaya/CodeCrack/tree/master/0301-remove-invalid-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanishanalwaya/CodeCrack/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishanalwaya/CodeCrack/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -178,6 +179,7 @@ The repository is continuously updated with new solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanishanalwaya/CodeCrack/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/tanishanalwaya/CodeCrack/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -204,6 +206,7 @@ The repository is continuously updated with new solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/tanishanalwaya/CodeCrack/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishanalwaya/CodeCrack/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
